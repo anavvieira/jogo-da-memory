@@ -9,8 +9,7 @@ Encontre os pares de cartas iguais, virando duas por vez. O jogo termina quando 
 ## 📁 Como rodar o projeto
 
 1. Baixe ou clone este repositório.
-2. Coloque suas imagens na pasta `images/`.
-3. Abra o arquivo `index.html` no navegador.
+2. Abra o arquivo `index.html` no navegador.
 
 ## ✅ Funcionalidades
 
